@@ -1,5 +1,6 @@
-# space-was-here.github.io
-if you see this, you are now qualified as a human being 👍
+theme: space-was-here.github.io
+title: Ayaan Baig
+description: if you see this, you are now qualified as a human being 👍
 <head>
 	<body style="background-color:black;">
 		<h1 style="color:green;">About me</h1>
